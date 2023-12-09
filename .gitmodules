@@ -1,0 +1,3 @@
+[submodule "notion_api_wrapper"]
+	path = notion_api_wrapper
+	url = https://github.com/Porphyrion/notion_api_wrapper.git
